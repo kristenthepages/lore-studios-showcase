@@ -1,3 +1,5 @@
+import express from "express";
+
 // Sanitized excerpt from the Lore Studios Express backend.
 // Verifies Stripe webhook signatures before changing account data.
 //
