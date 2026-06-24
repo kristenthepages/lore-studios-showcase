@@ -346,6 +346,9 @@ This repository includes sanitized, representative portions of the production ap
 - [Authentication middleware](src/backend/auth-middleware.js)
 - [Asynchronous generation queue](src/backend/generation-queue.js)
 - [Stripe webhook processing](src/backend/stripe-webhook.js)
+- [Book autocomplete](src/frontend/book-autocomplete.js)
+- [User library interface](src/frontend/library-ui.js)
+- [Subscription usage limits](src/backend/usage-limits.js)
 
 Proprietary prompts, credentials, customer data, financial information, and commercially sensitive logic are excluded.
 
@@ -365,14 +368,14 @@ lore-studios-showcase/
 │   └── mobile.png
 └── src/
     ├── frontend/
-    │   ├── generation-workflow.js
     │   ├── book-autocomplete.js
+    │   ├── generation-workflow.js
     │   └── library-ui.js
     └── backend/
         ├── auth-middleware.js
         ├── generation-queue.js
-        ├── usage-limits.js
-        └── stripe-webhook.js
+        ├── stripe-webhook.js
+        └── usage-limits.js
 ```
 
 ## Environment Variables
