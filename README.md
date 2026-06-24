@@ -23,7 +23,7 @@ Users enter a book title and optional story details. The platform researches the
 ![Generated artwork gallery](results.png)
 
 ### Generated Animation Clip
-![Generated animation clip](animationexample.png)
+![Watch an example animation](animationexample.png)
 
 ### User Library
 
@@ -340,20 +340,14 @@ This reduces the risk of unauthorized deletion or arbitrary remote-file ingestio
 
 ## Selected Code
 
-This repository contains sanitized examples of:
+This repository includes sanitized, representative portions of the production application:
 
-- Authentication middleware
-- Usage-limit calculations
-- Asynchronous generation and polling
-- Concurrent frontend job management
-- Book autocomplete
-- Loading and error-state handling
-- Stripe webhook processing
-- User-library operations
-- Media-source validation
-- Storage-cap management
+- [Concurrent generation workflow](src/frontend/generation-workflow.js)
+- [Authentication middleware](src/backend/auth-middleware.js)
+- [Asynchronous generation queue](src/backend/generation-queue.js)
+- [Stripe webhook processing](src/backend/stripe-webhook.js)
 
-The complete production source is private.
+Proprietary prompts, credentials, customer data, financial information, and commercially sensitive logic are excluded.
 
 ## Repository Structure
 
