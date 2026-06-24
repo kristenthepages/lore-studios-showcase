@@ -12,30 +12,30 @@ Users enter a book title and optional story details. The platform researches the
 
 ### Landing Page
 
-![Lore Studios landing page](screenshots/homepage.png)
+![Lore Studios landing page](homepage.png)
 
 ### Book Search and Generator
 
-![Book-art generator](screenshots/generator.png)
+![Book-art generator](generator.png)
 
 ### Generated Artwork
 
-![Generated artwork gallery](screenshots/results.png)
+![Generated artwork gallery](results.png)
 
 ### Generated Animation Clip
-![Generated animation clip](screenshots/animationexample.png)
+![Generated animation clip](animationexample.png)
 
 ### User Library
 
-![Saved image and video library](screenshots/library.png)
+![Saved image and video library](library.png)
 
 ### Subscription Plans
 
-![Subscription pricing](screenshots/pricing.png)
+![Subscription pricing](pricing.png)
 
 ### Mobile Experience
 
-![Lore Studios mobile interface](screenshots/mobile.png)
+![Lore Studios mobile interface](mobile.png)
 
 ## What I Built
 
