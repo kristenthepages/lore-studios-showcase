@@ -22,6 +22,9 @@ Users enter a book title and optional story details. The platform researches the
 
 ![Generated artwork gallery](screenshots/results.png)
 
+### Generated Animation Clip
+![Generated animation clip](screenshots/animationexample.png)
+
 ### User Library
 
 ![Saved image and video library](screenshots/library.png)
